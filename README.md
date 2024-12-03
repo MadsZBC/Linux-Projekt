@@ -22,6 +22,8 @@ An automated WordPress installation script for Linux systems that handles the co
 - Internet connection
 - Git (for cloning the repository)
 
+Tested on Debian 12.
+
 ## 🛠️ Quick Start
 
 1. Clone and run the installer:
